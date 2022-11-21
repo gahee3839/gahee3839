@@ -1,29 +1,45 @@
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=sooojinshin&fontSize=80)<br>-->
+# 😉 sooojinshin
+Hi, there !!!! 
 
-<p align="center">  </p>
+**You want to know about me?**
 
+## 📚 Tech
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-</p>
-  
-<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/oracle-F80000?style==flat-square&logo=oracle&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/html5-E34F26?style==flat-squaree&logo=html5&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/css3-1572B6?style==flat-square&logo=css3&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style==flat-square&logo=javascript&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MyBatis-E34F26?style=flat-square&logo=MyBatis&logoColor=white"/></a> &nbsp
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+ </p>
+
+## ⚒️ Tools
+<p align="center">
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/visual studio-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/></a> &nbsp
+ </p>
+
+<br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahee3839&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahee3839)](https://github.com/sooojinshin/github-readme-stats)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wls3147)](https://solved.ac/wls3147)-->
+
+<!--
+**sooojinshin/sooojinshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning full stack development
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
